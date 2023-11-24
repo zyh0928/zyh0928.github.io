@@ -1,0 +1,1 @@
+import{_ as e,o,c as r,t as s}from"./index-e5b94f89.js";const c={},n={class:"text-center text-h3 text-primary pt-6",cols:"12"};function a(t,_){return o(),r("div",n,s(t.$t("views.error.404")),1)}const l=e(c,[["render",a]]);export{l as default};
