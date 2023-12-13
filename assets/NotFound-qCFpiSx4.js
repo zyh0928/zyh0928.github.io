@@ -1,0 +1,1 @@
+import{_ as e,o,c as r,t as s}from"./index-AzW8UQHQ.js";const c={},n={class:"text-center text-h3 text-primary pt-6",cols:"12"};function a(t,_){return o(),r("div",n,s(t.$t("pages.error.404")),1)}const p=e(c,[["render",a]]);export{p as default};
